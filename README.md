@@ -7,21 +7,21 @@ I currently live in Spain, but I've always loved traveling and experiencing new 
 <br/><br/>
 🕵🏼‍♂️👨🏼‍💻 I worked for years at various sports centers and then in infrastructure protection services at EULEN. However, I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects. 
 <br/><br/>
-I love reading, history (I'm a good tour guide, 😜), movies, sports🏃🏼‍♂️, and videogames.</h3>
+I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on the weekends</h3>
 <br/><br/>
 
 
-- 👨‍💻 All of my projects are available at [https://portafolioeduardomartsm.netlify.app](https://portafoliojorgesm.netlify.app)
+- 👨‍💻 All of my projects are available at [https://calculadora-eduardo-martinez.netlify.app](https://calculadora-javier-salvador.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, PHP, Java, JavaScript, React, Bootstrap, Python, MySQL.**
 
 - 📫 How to reach me **eduardomr_@hotmail.com**
 
-- ⚡ Fun fact **I am a determined computer scientist, a person always willing to learn and overcome new challenges, who enjoys sports, nature, traveling, making friends, and "The Lord of the Rings"... A curious mix, 😂.**
+- ⚡ Fun fact **I am a determined computer scientist, a person always willing to learn and overcome new challenges, who enjoys sports, nature, traveling, making friends, playing videogames.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduardomartinezramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardomart" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardo-martinez-ramirez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardomart" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
