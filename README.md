@@ -11,7 +11,7 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
 <br/><br/>
 
 
-- 👨‍💻 All of my projects are available at [https://calculadora-eduardo-martinez.netlify.app](https://calculadora-javier-salvador.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://calculadora-eduardo-martinez.netlify.app]((https://calculadora-eduardo-martinez.netlify.app)/)
 
 - 💬 Ask me about **HTML5, CSS3, PHP, Java, JavaScript, React, Bootstrap, Python, MySQL.**
 
