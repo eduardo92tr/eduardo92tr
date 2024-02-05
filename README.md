@@ -11,7 +11,12 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
 <br/><br/>
 
 
-- 👨‍💻 All of my projects are available at [https://calculadora-eduardo-martinez.netlify.app]((https://calculadora-eduardo-martinez.netlify.app)/)
+- 👨‍💻 In this GitHub repository, I have uploaded the projects I have been working on and I keep them updated:
+      
+      Android App for learning and memorization. (Final Degree Project DAM) -> https://github.com/eduardomarraz/Android-App-for-learning-and-memorization.
+    
+      Document Manager developed with intuye.es -> https://github.com/eduardomarraz/Gestor_Documental.
+      
 
 - 💬 Ask me about **HTML5, CSS3, PHP, Java, Spring Boot, C#, .NET, JavaScript, React, Bootstrap, MySQL.**
 
