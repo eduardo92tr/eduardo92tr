@@ -5,7 +5,8 @@
 <br/><br/>
 I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
 <br/><br/>
-🕵🏼‍♂️👨🏼‍💻 I worked for 2 years as a .NET programmer at EULEN, working with .NET Framework 4.7, designing solutions with Dynamics 365 Business Central, and with ASP.NET services and desktop applications. That's why I decided to improve my skills and address my deficiencies in order to work at a high level in this sector.
+🕵🏼‍♂️👨🏼‍💻 I worked for 2 years as a .NET programmer at EULEN, working with .NET Framework 4.7, designing solutions with Dynamics 365 Business Central, and with ASP.NET services and desktop applications.
+That's why I decided to improve my skills and address my deficiencies in order to work at a high level in this sector. Therefore, I chose to enhance my knowledge by studying DAM in order to advance and broaden my field of expertise.
 <br/><br/>
 I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on the weekends</h3>
 <br/><br/>
