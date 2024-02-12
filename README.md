@@ -5,7 +5,7 @@
 <br/><br/>
 I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
 <br/><br/>
-🕵🏼‍♂️👨🏼‍💻 I worked for years at various sports centers and then in infrastructure protection services at EULEN. However, I decided to change my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects. 
+🕵🏼‍♂️👨🏼‍💻 I worked for years at various sports centers and I also worked for 2 years as a .NET programmer at Eulen, working with .NET Framework 4.7, designing solutions with Dynamics 365 Business Central, and with ASP.net services and desktop applications. However, I decided to improve my life and fulfill the dream of exploring new technologies from within. That's why I prefer to develop, bring them to life, and create beautiful projects. 
 <br/><br/>
 I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on the weekends</h3>
 <br/><br/>
