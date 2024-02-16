@@ -42,11 +42,11 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
     <a href="https://www.docker.com/">
         <img src="https://skillicons.dev/icons?i=docker" alt="bootstrap" width="40" height="40"/>
     </a> 
-    <a href="https://aws.amazon.com/es/">
+    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
         <img src="https://skillicons.dev/icons?i=cs" alt="bootstrap" width="40" height="40"/>
     </a> 
-    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
-        <img src="https://skillicons.dev/icons?i=aws" alt="bootstrap" width="40" height="40"/>
+    <a href="https://aws.amazon.com/es/">
+        <img src="https://skillicons.dev/icons?i=aws" alt="bootstrap" width="40" height="40"/> 
     </a>
 </p>
 
