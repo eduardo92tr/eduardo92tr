@@ -48,6 +48,9 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
     <a href="https://aws.amazon.com/es/">
         <img src="https://skillicons.dev/icons?i=aws" alt="bootstrap" width="40" height="40"/> 
     </a>
+      <a href="https://angular.io/">
+        <img src="https://skillicons.dev/icons?i=angular" alt="bootstrap" width="40" height="40"/> 
+    </a>
 </p>
 
 <br/>
