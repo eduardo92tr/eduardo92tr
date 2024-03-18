@@ -5,7 +5,7 @@
 <br/><br/>
 I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
 <br/><br/>
-🕵🏼‍♂️👨🏼‍💻 I spent several years working in sports centers and in the security sector, but I decided to make a significant change in my life and focus on a career in computer science. I recognized the potential in this field and the opportunities it offers for growth and innovation. To pursue this new direction, I am dedicated to acquiring the necessary skills and knowledge to excel in the field of technology.
+🕵🏼‍♂️👨🏼‍💻 I spent several years working in sports centers and with the company EULEN, but I decided to make a significant change in my life and focus on a career in computer science. I recognized the potential in this field and the opportunities it offers for growth and innovation. To pursue this new direction, I am dedicated to acquiring the necessary skills and knowledge to excel in the field of technology.
 <br/><br/>
 I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on the weekends</h3>
 <br/><br/>
