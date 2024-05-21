@@ -20,7 +20,9 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
 
 - 💬 Ask me about **HTML5, CSS3, PHP, Java, Spring Boot, C#, .NET, JavaScript, Bootstrap, MySQL.**
 
-- 📫 How to reach me **eduardomr_@hotmail.com**
+- 📧 How to reach me **eduardomr_@hotmail.com**
+  
+- 👨‍💻 my website **https://eduardomarraz.netlify.app/** 
 
 - ⚡ Fun fact **I am a determined computer scientist, a person always willing to learn and overcome new challenges, who enjoys sports, nature, traveling, making friends, playing videogames.**
 
