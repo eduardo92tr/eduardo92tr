@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Eduardo Martínez Ramírez</h1>
 <h2 align="center" style="color: blue;">About me</h2>
 
-<h3 align="center">Graduate in TAFAD, reoriented towards my passion for technology 💻. Graduated as a Higher Technician in Multiplatform Application Development (DAM), and specializing as a web developer for Microsoft Azure. I'm also specializing in C#, .NET, Java, PHP, Javascript, HTML, CSS, Bootstrap, Spring Boot. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 
+<h3 align="center">Graduated as a Higher Technician in Multiplatform Application Development (DAM), and specializing as a web developer for Microsoft Azure. I'm also specializing in C#, .NET, Java, PHP, Javascript, HTML, CSS, Bootstrap, Spring Boot. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 
 <br/><br/>
 I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
 <br/><br/>
