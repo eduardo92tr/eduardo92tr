@@ -1,15 +1,8 @@
 <h1 align="center">Hi! 👋, I'm Eduardo Martínez Ramírez</h1>
 <h2 align="center" style="color: blue;">About me</h2>
 
-<h3 align="center">Graduated as a Higher Technician in Multiplatform Application Development (DAM), and specializing as a web developer for Microsoft Azure. I'm also specializing in C#, .NET, Java, PHP, Javascript, HTML, CSS, Bootstrap, Spring Boot. My goal is to become a great full-stack developer, and that's why I'm researching and trying to improve every day. 💪💪 
+<h3 align="center">Graduated as a Higher Technician in Multiplatform Application Development (DAM), and specializing as a web developer for Microsoft Azure. I'm also specializing in C#, .NET, Azure, AWS, MySQL, Docker, Kubernetes and Javascript. My goal is to become a great full-stack developer or Devops, and that's why I'm researching and trying to improve every day. 💪💪 
 <br/><br/>
-I currently live in Spain, but I've always loved traveling and experiencing new adventures. Learning about other cultures, and who knows, if the opportunity arises, I would be open to living in another place. Although Spain will always be my home. 😊 
-<br/><br/>
-🕵🏼‍♂️👨🏼‍💻 I spent several years working in sports centers and with the company EULEN, but I decided to make a significant change in my life and focus on a career in computer science. I recognized the potential in this field and the opportunities it offers for growth and innovation. To pursue this new direction, I am dedicated to acquiring the necessary skills and knowledge to excel in the field of technology.
-<br/><br/>
-I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on the weekends</h3>
-<br/><br/>
-
 
 - 👨‍💻 In this GitHub repository, I have uploaded the projects I have been working on and I keep them updated:
       
@@ -17,8 +10,6 @@ I love reading, traveling, movies, sports🏃🏼‍♂️, and doing crafts on 
     
       Document Manager developed with intuye.es -> https://github.com/eduardomarraz/Gestor_Documental.
       
-
-- 💬 Ask me about **HTML5, CSS3, PHP, Java, Spring Boot, C#, .NET, JavaScript, Bootstrap, MySQL.**
 
 - 📧 How to reach me **eduardomr_@hotmail.com**
   
